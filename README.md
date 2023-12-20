@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hello everyone, I am a front-end developer :relaxed: :relaxed: :relaxed:
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -8,6 +8,3 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-=======
-# Hello everyone, I am a beginner front-end developer :relaxed: :relaxed: :relaxed:
->>>>>>> ec2183010f444703c5a55abc7d6f1e94048cefb9
